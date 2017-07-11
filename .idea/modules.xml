@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TddSkeleton.iml" filepath="$PROJECT_DIR$/TddSkeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TddSkeleton_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TddSkeleton_main.iml" group="TddSkeleton" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TddSkeleton_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TddSkeleton_test.iml" group="TddSkeleton" />
+    </modules>
+  </component>
+</project>
